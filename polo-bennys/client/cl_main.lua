@@ -66,7 +66,7 @@ Citizen.CreateThread(function()
           type = "client",
           event = "polo-bennys:client:RefuelNitrous",
           icon = 'fas fa-eye',
-          label = 'refil nitrous can $'..Config.Shop[1].price.. " ",
+          label = 'refill nitrous can $'..Config.Shop[1].price.. " ",
         },
       },
       distance = 2.5,
